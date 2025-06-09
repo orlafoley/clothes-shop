@@ -13,3 +13,9 @@ This project was created for me to get some more hands on experience with full s
 1. `git clone https://github.com/YOUR_USERNAME/clothes-shop.git`
 2. `cd clothes-shop`
 3. Take a look at the folders.
+
+### Frontend
+1. `cd frontend`
+2. `npm install`
+3. `npm run dev`
+4. Open up [http://localhost:3000](http://localhost:3000) to see the frontend of this project.
